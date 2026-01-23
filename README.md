@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Batuk55/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Batuk55/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Batuk55/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Batuk55/Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Batuk55/Leetcode/tree/master/0283-move-zeroes) |
@@ -18,6 +19,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Batuk55/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Batuk55/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Batuk55/Leetcode/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
@@ -32,6 +34,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Batuk55/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Batuk55/Leetcode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
