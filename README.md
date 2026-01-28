@@ -33,6 +33,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Batuk55/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Batuk55/Leetcode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -50,6 +51,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Batuk55/Leetcode/tree/master/0013-roman-to-integer) |
 | [0509-fibonacci-number](https://github.com/Batuk55/Leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -62,6 +64,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Batuk55/Leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Batuk55/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
