@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Batuk55/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Batuk55/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Batuk55/Leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Batuk55/Leetcode/tree/master/0053-maximum-subarray) |
@@ -34,6 +35,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Batuk55/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Batuk55/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Batuk55/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Batuk55/Leetcode/tree/master/0217-contains-duplicate) |
