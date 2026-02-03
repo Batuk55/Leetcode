@@ -16,6 +16,7 @@
 | [0724-find-pivot-index](https://github.com/Batuk55/Leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Batuk55/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1480-running-sum-of-1d-array](https://github.com/Batuk55/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [3637-trionic-array-i](https://github.com/Batuk55/Leetcode/tree/master/3637-trionic-array-i) |
 ## Two Pointers
 |  |
 | ------- |
