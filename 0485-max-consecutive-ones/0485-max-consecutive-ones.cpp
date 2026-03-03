@@ -22,10 +22,10 @@ public:
             if (nums[i] == 1) {
                 count++;
                 temp = max(temp, count); // added later
-                continue;
+                //continue;
             }
 
-            count =0;
+           else count =0;
         }
         
         return temp;
