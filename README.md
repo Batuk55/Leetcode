@@ -20,6 +20,7 @@
 | [0724-find-pivot-index](https://github.com/Batuk55/Leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Batuk55/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1480-running-sum-of-1d-array](https://github.com/Batuk55/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Batuk55/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3637-trionic-array-i](https://github.com/Batuk55/Leetcode/tree/master/3637-trionic-array-i) |
 ## Two Pointers
 |  |
@@ -31,6 +32,7 @@
 | [0125-valid-palindrome](https://github.com/Batuk55/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Batuk55/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Batuk55/Leetcode/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Batuk55/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,4 +121,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Batuk55/Leetcode/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Batuk55/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
