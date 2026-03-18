@@ -27,6 +27,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Batuk55/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1480-running-sum-of-1d-array](https://github.com/Batuk55/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Batuk55/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Batuk55/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3637-trionic-array-i](https://github.com/Batuk55/Leetcode/tree/master/3637-trionic-array-i) |
 ## Two Pointers
 |  |
@@ -51,6 +52,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Batuk55/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Batuk55/Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Batuk55/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Batuk55/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,4 +150,5 @@
 | [0048-rotate-image](https://github.com/Batuk55/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Batuk55/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Batuk55/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Batuk55/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 <!---LeetCode Topics End-->
