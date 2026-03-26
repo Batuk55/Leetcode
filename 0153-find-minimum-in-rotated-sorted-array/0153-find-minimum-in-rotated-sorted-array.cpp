@@ -41,8 +41,10 @@ public:
 
             if (nums[high] >= nums[low]) { // already sorted
                 mini = min(mini,nums[low]);
+                break;
                 
             }
+
             int mid = low + (high - low) / 2;
 
             if (nums[low] <= nums[mid]) { /* left is sorted , that equal sign is
