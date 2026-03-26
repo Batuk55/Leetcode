@@ -17,7 +17,7 @@ public:
             // now how to eliminat left or right halfs??
             if (nums[mid] < nums[mid + 1]) {
                 low = mid + 1;
-            } else  {
+            } else if(nums[mid] < nums[mid - 1]){
                 high = mid - 1;
             }
         }
