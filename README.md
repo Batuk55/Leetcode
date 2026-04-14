@@ -140,6 +140,7 @@
 | [0125-valid-palindrome](https://github.com/Batuk55/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Batuk55/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Batuk55/Leetcode/tree/master/0344-reverse-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Batuk55/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Batuk55/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## String Matching
 |  |
@@ -184,6 +185,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Batuk55/Leetcode/tree/master/0020-valid-parentheses) |
 | [0735-asteroid-collision](https://github.com/Batuk55/Leetcode/tree/master/0735-asteroid-collision) |
+| [1021-remove-outermost-parentheses](https://github.com/Batuk55/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Simulation
 |  |
 | ------- |
