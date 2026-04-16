@@ -60,6 +60,7 @@
 | [0189-rotate-array](https://github.com/Batuk55/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Batuk55/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Batuk55/Leetcode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Batuk55/Leetcode/tree/master/0567-permutation-in-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Batuk55/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -90,6 +91,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Batuk55/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Batuk55/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Batuk55/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Batuk55/Leetcode/tree/master/0567-permutation-in-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Batuk55/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Divide and Conquer
 |  |
@@ -140,6 +142,7 @@
 | [0125-valid-palindrome](https://github.com/Batuk55/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Batuk55/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Batuk55/Leetcode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Batuk55/Leetcode/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Batuk55/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Batuk55/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Batuk55/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -214,4 +217,8 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Batuk55/Leetcode/tree/master/0410-split-array-largest-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Batuk55/Leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
