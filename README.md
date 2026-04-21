@@ -89,6 +89,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Batuk55/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Batuk55/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Batuk55/Leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Batuk55/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Batuk55/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Batuk55/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Batuk55/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -146,6 +147,7 @@
 | [0049-group-anagrams](https://github.com/Batuk55/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Batuk55/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Batuk55/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Batuk55/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Batuk55/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Batuk55/Leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Batuk55/Leetcode/tree/master/0443-string-compression) |
