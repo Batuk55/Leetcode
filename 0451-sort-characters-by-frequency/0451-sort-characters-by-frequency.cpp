@@ -3,7 +3,7 @@ public:
     string frequencySort(string s) {
         int n = s.size();
 
-        map<char , int> mpp;
+        unordered_map<char , int> mpp;
         for(int i = 0; i < n ; i++){
             mpp[s[i]]++;
         }
