@@ -125,6 +125,7 @@
 | [0169-majority-element](https://github.com/Batuk55/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Batuk55/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Batuk55/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [2833-furthest-point-from-origin](https://github.com/Batuk55/Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Math
 |  |
 | ------- |
@@ -162,6 +163,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Batuk55/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Batuk55/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Batuk55/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2833-furthest-point-from-origin](https://github.com/Batuk55/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Batuk55/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## String Matching
 |  |
