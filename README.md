@@ -49,6 +49,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/Batuk55/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Batuk55/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Batuk55/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Batuk55/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3637-trionic-array-i](https://github.com/Batuk55/Leetcode/tree/master/3637-trionic-array-i) |
 ## Two Pointers
 |  |
@@ -117,6 +118,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Batuk55/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Batuk55/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Batuk55/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Batuk55/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Counting
 |  |
 | ------- |
@@ -131,6 +133,7 @@
 | [0189-rotate-array](https://github.com/Batuk55/Leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Batuk55/Leetcode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Batuk55/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Batuk55/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3870-count-commas-in-range](https://github.com/Batuk55/Leetcode/tree/master/3870-count-commas-in-range) |
 ## Recursion
 |  |
@@ -186,6 +189,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Batuk55/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Batuk55/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Batuk55/Leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Batuk55/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -242,4 +246,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Batuk55/Leetcode/tree/master/0014-longest-common-prefix) |
+## Geometry
+|  |
+| ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Batuk55/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 <!---LeetCode Topics End-->
