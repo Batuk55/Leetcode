@@ -141,6 +141,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Batuk55/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Batuk55/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -257,4 +258,8 @@
 |  |
 | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Batuk55/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Batuk55/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
