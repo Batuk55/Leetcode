@@ -12,7 +12,7 @@ public:
         unordered_map<ListNode*, int> mpp;
 
         ListNode* temp = head;
-
+        
         while (temp != NULL) {
             auto it = mpp.find(temp);
 
