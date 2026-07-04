@@ -12,6 +12,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Batuk55/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Batuk55/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Batuk55/Leetcode/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/Batuk55/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Batuk55/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Batuk55/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Batuk55/Leetcode/tree/master/0053-maximum-subarray) |
@@ -285,4 +286,8 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/Batuk55/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Batuk55/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Batuk55/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Batuk55/Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
