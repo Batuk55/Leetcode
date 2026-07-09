@@ -1,13 +1,13 @@
 class Solution {
 public:
-    bool isPalindrome(string s, int start, int end){
+    bool isPalindrome(string &s, int start, int end){
         while(start<=end){
             if(s[start++] != s[end--]) return false;
         }
         return true;
 
     }
-    void helper(vector<vector<string>> &ans, string s, vector<string> &result, int idx){
+    void helper(vector<vector<string>> &ans, string &s, vector<string> &result, int idx){
         if(idx == s.size()){
             ans.push_back(result);
             return;
