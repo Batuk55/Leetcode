@@ -3,7 +3,7 @@ public:
     int m, n;
     vector<vector<int>> directions{{1, 0}, {-1, 0}, {0, -1}, {0, 1}};
 
-    bool find(vector<vector<char>>& board, int i, int j, string word, int idx) {
+    bool find(vector<vector<char>>& board, int i, int j, string &word, int idx) {
         if (idx == word.size())
             return true;
         if (i < 0 || i >= m || j < 0 || j >= n || board[i][j] == '$')
