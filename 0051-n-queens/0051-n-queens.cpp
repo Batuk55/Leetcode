@@ -39,7 +39,7 @@ public:
 
     }
     
-    void helper(vector<vector<string>> &ans, vector<string> &board, int n,  int current_col, vector<int> upper_left_dia, vector<int> lower_left_dia, vector<int> left_row){
+    void helper(vector<vector<string>> &ans, vector<string> &board, int n,  int current_col, vector<int> &upper_left_dia, vector<int> &lower_left_dia, vector<int> &left_row){
 
         if(current_col == n){
             ans.push_back(board);
