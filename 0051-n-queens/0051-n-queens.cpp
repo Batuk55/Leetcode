@@ -39,19 +39,37 @@ public:
 
     }
     
-    void helper(vector<vector<string>> &ans, vector<string> &board, int n,  int current_col){
+    void helper(vector<vector<string>> &ans, vector<string> &board, int n,  int current_col, vector<int> upper_left_dia, vector<int> lower_left_dia, vector<int> left_row){
+
         if(current_col == n){
             ans.push_back(board);
             return;
         }
 
+        // for(int i = 0; i < n; i++){
+        //     if(if_possible(board, n, i, current_col)){
+        //         board[i][current_col] = 'Q';
+        //         helper(ans, board, n, current_col+1);
+
+        //         //backtracking
+        //         board[i][current_col] = '.';
+        //     }
+        // }
         for(int i = 0; i < n; i++){
-            if(if_possible(board, n, i, current_col)){
+            if(left_row[i] == 0 && lower_left_dia[i+current_col] == 0 && upper_left_dia[(n-1)+(current_col-i)] == 0){
+                left_row[i] = 1;//means a queen is there
+                lower_left_dia[i+current_col] = 1;//means a queen is there
+                upper_left_dia[(n-1)+(current_col-i)] = 1;//means a queen is there
+
                 board[i][current_col] = 'Q';
-                helper(ans, board, n, current_col+1);
+                helper(ans, board, n, current_col+1, upper_left_dia, lower_left_dia, left_row);
 
                 //backtracking
                 board[i][current_col] = '.';
+                left_row[i] = 0;//means a queen is not there
+                lower_left_dia[i+current_col] = 0;//means a queen is not there
+                upper_left_dia[(n-1)+(current_col-i)] = 0;//means a queen is not there
+
             }
         }
     }
@@ -65,7 +83,8 @@ public:
             board[i] = s;
         }
 
-        helper(ans, board, n, 0);
+        vector<int> upper_left_dia(2*n - 1, 0), lower_left_dia(2*n-1, 0), left_row(n,0);
+        helper(ans, board, n, 0, upper_left_dia, lower_left_dia, left_row);
 
         return ans; 
     }
