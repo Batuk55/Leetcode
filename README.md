@@ -154,6 +154,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Batuk55/Leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Batuk55/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Batuk55/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Batuk55/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Batuk55/Leetcode/tree/master/0231-power-of-two) |
@@ -325,6 +326,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Batuk55/Leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Batuk55/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Batuk55/Leetcode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Batuk55/Leetcode/tree/master/0231-power-of-two) |
