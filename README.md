@@ -156,6 +156,7 @@
 | [0013-roman-to-integer](https://github.com/Batuk55/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Batuk55/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Batuk55/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Batuk55/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Batuk55/Leetcode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Batuk55/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Batuk55/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -165,6 +166,7 @@
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Batuk55/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Batuk55/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Batuk55/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Batuk55/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Batuk55/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -325,6 +327,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Batuk55/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Batuk55/Leetcode/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/Batuk55/Leetcode/tree/master/0231-power-of-two) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Batuk55/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Depth-First Search
 |  |
