@@ -14,6 +14,7 @@
 | [0035-search-insert-position](https://github.com/Batuk55/Leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Batuk55/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Batuk55/Leetcode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Batuk55/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Batuk55/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Batuk55/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Batuk55/Leetcode/tree/master/0049-group-anagrams) |
@@ -68,6 +69,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Batuk55/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Batuk55/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Batuk55/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Batuk55/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Batuk55/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Batuk55/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Batuk55/Leetcode/tree/master/0125-valid-palindrome) |
@@ -87,6 +89,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Batuk55/Leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Batuk55/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Batuk55/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Batuk55/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Batuk55/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -251,6 +254,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Batuk55/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Batuk55/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Batuk55/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Batuk55/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Batuk55/Leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -358,5 +362,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Batuk55/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Batuk55/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
