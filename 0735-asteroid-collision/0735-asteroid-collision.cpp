@@ -1,35 +1,27 @@
 class Solution {
 public:
-    vector<int> asteroidCollision(vector<int>& asteroids) {
-        int n = asteroids.size();
+    vector<int> asteroidCollision(vector<int>& asteroids) {//NLE ans PLE se nhi hoga
+    int n = asteroids.size();
+    stack <int> st;
 
-        stack<int> st;
-        // st.push(a);
-        for (int a : asteroids) {
-
-            bool currentdestroyed = false;
-            while (!st.empty() && a < 0 && st.top() > 0) { // means they will
-                                                           // colloid
-                if (abs(a) > abs(st.top())) {
-                    st.pop();
-                } else if (abs(a) == abs(st.top())) {
-                    st.pop();
-                    currentdestroyed = true;
-                    break;
-                } else {
-                    currentdestroyed = true;
-                    break;
-                }
+    int i = 0; 
+    while(i < n){
+        if(asteroids[i]>0) st.push(asteroids[i]);
+        else{
+            while(!st.empty() && st.top()>0 && st.top() < abs(asteroids[i])){
+                st.pop();
             }
-            if (currentdestroyed == false)
-                st.push(a);
+            if(!st.empty() && st.top() == abs(asteroids[i])) st.pop();
+            else if(st.empty() || st.top()<0) st.push(asteroids[i]);
         }
-        asteroids.clear();
-        while (!st.empty()) {
-            asteroids.push_back(st.top());
+        i++;
+    }
+        vector<int> ans;
+        while(!st.empty()){
+            ans.push_back(st.top());
             st.pop();
         }
-        reverse(asteroids.begin(), asteroids.end());
-        return asteroids;
+        reverse(ans.begin(), ans.end());
+        return ans;
     }
 };
