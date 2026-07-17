@@ -59,6 +59,7 @@
 | [1539-kth-missing-positive-number](https://github.com/Batuk55/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Batuk55/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/Batuk55/Leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/Batuk55/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Batuk55/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Batuk55/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Batuk55/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -267,6 +268,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Batuk55/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Batuk55/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Batuk55/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2104-sum-of-subarray-ranges](https://github.com/Batuk55/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
 | ------- |
@@ -368,4 +370,5 @@
 | [0042-trapping-rain-water](https://github.com/Batuk55/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Batuk55/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/Batuk55/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Batuk55/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
