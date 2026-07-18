@@ -28,6 +28,7 @@
 | [0079-word-search](https://github.com/Batuk55/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Batuk55/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Batuk55/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Batuk55/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Batuk55/Leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Batuk55/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Batuk55/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -94,6 +95,7 @@
 | [0022-generate-parentheses](https://github.com/Batuk55/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Batuk55/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Batuk55/Leetcode/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/Batuk55/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Batuk55/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Batuk55/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/Batuk55/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -260,6 +262,7 @@
 | [0020-valid-parentheses](https://github.com/Batuk55/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Batuk55/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Batuk55/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Batuk55/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Batuk55/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Batuk55/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Batuk55/Leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -291,6 +294,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Batuk55/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Batuk55/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Batuk55/Leetcode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Batuk55/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Batuk55/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Batuk55/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/Batuk55/Leetcode/tree/master/1901-find-a-peak-element-ii) |
@@ -371,6 +375,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Batuk55/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Batuk55/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Batuk55/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Batuk55/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/Batuk55/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Batuk55/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
