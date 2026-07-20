@@ -1,23 +1,26 @@
 class Solution {
 public:
-    int numSubarraysWithSum(vector<int>& nums, int goal) {
+    int lessThanEqual(vector<int>& nums, int goal){
+        if(goal< 0) return 0;
         int n = nums.size();
-        long long sum = 0;
-        int count = 0;
-        // int l = 0, r = 0;
+        int l = 0, r = 0;
+        int sum = 0;
+        int cnt = 0;
 
-        unordered_map<int, int> presum_map;
-        presum_map[0] = 1;
-
-        for (int i = 0 ; i < n; i++) {
-            sum += nums[i];
-            int rem = sum - goal;
-
-            if (presum_map.find(rem) != presum_map.end()) {
-                count += presum_map[rem];
+        while(r<n){
+            sum += nums[r];
+            while(sum > goal){
+                sum -= nums[l];
+                l++;
             }
-            presum_map[sum]++;
+            cnt += (r-l+1);
+            r++;
         }
-        return count;
+        return cnt;
+    }
+    int numSubarraysWithSum(vector<int>& nums, int goal) {
+
+        return lessThanEqual(nums, goal) - lessThanEqual(nums, goal-1);
+                
     }
 };
