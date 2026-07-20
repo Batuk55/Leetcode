@@ -54,6 +54,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Batuk55/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Batuk55/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/Batuk55/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0930-binary-subarrays-with-sum](https://github.com/Batuk55/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Batuk55/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Batuk55/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/Batuk55/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -107,6 +108,7 @@
 | [0410-split-array-largest-sum](https://github.com/Batuk55/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Batuk55/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Batuk55/Leetcode/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/Batuk55/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Batuk55/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Batuk55/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Hash Table
@@ -134,6 +136,7 @@
 | [0496-next-greater-element-i](https://github.com/Batuk55/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Batuk55/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Batuk55/Leetcode/tree/master/0567-permutation-in-string) |
+| [0930-binary-subarrays-with-sum](https://github.com/Batuk55/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Batuk55/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Batuk55/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Divide and Conquer
@@ -313,6 +316,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Batuk55/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Batuk55/Leetcode/tree/master/0567-permutation-in-string) |
+| [0930-binary-subarrays-with-sum](https://github.com/Batuk55/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 ## Trie
 |  |
 | ------- |
