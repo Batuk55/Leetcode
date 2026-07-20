@@ -4,25 +4,20 @@ public:
         int n = s.length();
         int Maxlength = 0;
 
-        char hash[256] = {-1};
+        vector<int> hash(256,-1);// it will store the occured index of that element.
         int l=0, r=0;
-        unordered_map<char, int> mpp;
 
-
-        // int len = 0;
         while(r<n){
-
-            while(mpp.find(s[r]) != mpp.end()){
-                mpp.erase(s[l]);
-                // len--;
-                l++;
+            if(hash[s[r]]!= -1){
+                if(hash[s[r]] >= l){
+                    l = hash[s[r]] + 1;
+                }
             }
-            mpp[s[r]] = r;
-            // len++;
             int len = r-l+1;
             Maxlength = max(len, Maxlength);
+            
+            hash[s[r]] = r;
             r++;
-
         }
         return Maxlength;
     }
