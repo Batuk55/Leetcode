@@ -58,6 +58,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Batuk55/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Batuk55/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Batuk55/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1331-rank-transform-of-an-array](https://github.com/Batuk55/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Batuk55/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Batuk55/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Batuk55/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -142,6 +143,7 @@
 | [0567-permutation-in-string](https://github.com/Batuk55/Leetcode/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/Batuk55/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Batuk55/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1331-rank-transform-of-an-array](https://github.com/Batuk55/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Batuk55/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Batuk55/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Batuk55/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -164,6 +166,7 @@
 | [0242-valid-anagram](https://github.com/Batuk55/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Batuk55/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Batuk55/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1331-rank-transform-of-an-array](https://github.com/Batuk55/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Batuk55/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Batuk55/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Counting
