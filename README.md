@@ -48,6 +48,7 @@
 | [0496-next-greater-element-i](https://github.com/Batuk55/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Batuk55/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Batuk55/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Batuk55/Leetcode/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/Batuk55/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Batuk55/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Batuk55/Leetcode/tree/master/0735-asteroid-collision) |
@@ -141,6 +142,7 @@
 | [0496-next-greater-element-i](https://github.com/Batuk55/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Batuk55/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Batuk55/Leetcode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/Batuk55/Leetcode/tree/master/0621-task-scheduler) |
 | [0930-binary-subarrays-with-sum](https://github.com/Batuk55/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Batuk55/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Batuk55/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -166,6 +168,7 @@
 | [0242-valid-anagram](https://github.com/Batuk55/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Batuk55/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Batuk55/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Batuk55/Leetcode/tree/master/0621-task-scheduler) |
 | [1331-rank-transform-of-an-array](https://github.com/Batuk55/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Batuk55/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Batuk55/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -175,6 +178,7 @@
 | [0169-majority-element](https://github.com/Batuk55/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Batuk55/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Batuk55/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Batuk55/Leetcode/tree/master/0621-task-scheduler) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Batuk55/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2833-furthest-point-from-origin](https://github.com/Batuk55/Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Math
@@ -266,6 +270,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Batuk55/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Batuk55/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Batuk55/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Batuk55/Leetcode/tree/master/0621-task-scheduler) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -323,6 +328,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Batuk55/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/Batuk55/Leetcode/tree/master/0621-task-scheduler) |
 | [1903-largest-odd-number-in-string](https://github.com/Batuk55/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
