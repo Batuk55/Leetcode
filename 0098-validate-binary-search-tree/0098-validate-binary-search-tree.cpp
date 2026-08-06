@@ -11,30 +11,15 @@
  */
 class Solution {
 public:
+    bool check(TreeNode* root, long long least, long long most){
+        if(!root) return true;
+        if(root->val >= most || root->val <= least) return false;
+        
+       return check(root->left, least, root->val) && check(root->right, root->val, most);
+    }
     bool isValidBST(TreeNode* root) {
-        // vector<int> ans;
-        // if(root == NULL) return ans;
-        long last = LONG_MIN;
-        stack<TreeNode*> st;
-        // TreeNode* node = root;
 
-        while(true){
-            if(root != NULL){
-                st.push(root);
-                root = root->left;
-            }
-            else{
-                if(st.empty()) break;
-                root = st.top();
-                st.pop();
-                if(root->val <= last) return false;
-                last = root->val;
-                // ans.push_back(root->val);
-                root = root->right;
-            }
-        }
-        // return ans;
-        return true;
+        return check(root, LLONG_MIN, LLONG_MAX);
         
     }
 };
