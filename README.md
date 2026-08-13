@@ -332,6 +332,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Batuk55/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Batuk55/Leetcode/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/Batuk55/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
@@ -428,6 +429,7 @@
 | [0207-course-schedule](https://github.com/Batuk55/Leetcode/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Batuk55/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/Batuk55/Leetcode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Batuk55/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Batuk55/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Design
 |  |
@@ -503,6 +505,7 @@
 | [0200-number-of-islands](https://github.com/Batuk55/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Batuk55/Leetcode/tree/master/0207-course-schedule) |
 | [0733-flood-fill](https://github.com/Batuk55/Leetcode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Batuk55/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Batuk55/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -522,6 +525,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Batuk55/Leetcode/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/Batuk55/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
@@ -530,4 +534,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Batuk55/Leetcode/tree/master/0207-course-schedule) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Batuk55/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Batuk55/Leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
