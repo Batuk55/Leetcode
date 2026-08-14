@@ -430,6 +430,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Batuk55/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/Batuk55/Leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Batuk55/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Batuk55/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Batuk55/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Design
 |  |
@@ -506,6 +507,7 @@
 | [0207-course-schedule](https://github.com/Batuk55/Leetcode/tree/master/0207-course-schedule) |
 | [0733-flood-fill](https://github.com/Batuk55/Leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Batuk55/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Batuk55/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Batuk55/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -526,10 +528,12 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Batuk55/Leetcode/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/Batuk55/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Batuk55/Leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Batuk55/Leetcode/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/Batuk55/Leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -542,4 +546,12 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Batuk55/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Batuk55/Leetcode/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Batuk55/Leetcode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
