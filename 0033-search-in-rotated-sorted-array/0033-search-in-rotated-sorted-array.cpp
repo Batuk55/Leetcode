@@ -11,13 +11,13 @@ public:
 
             //right is sorted
             if (nums[mid] <= nums[high]) {
-                if (nums[mid] < target && target <= nums[high]) {
+                if (nums[mid] <= target && target <= nums[high]) {
                     low = mid + 1;
                 } else {
                     high = mid - 1;
                 }
             } else {//left is sorted
-                if (nums[mid] > target && target >= nums[low]) {
+                if (nums[mid] >= target && target >= nums[low]) {
                     high = mid - 1;
                 } else {
                     low = mid + 1;
