@@ -44,6 +44,7 @@
 | [0217-contains-duplicate](https://github.com/Batuk55/Leetcode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Batuk55/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Batuk55/Leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Batuk55/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Batuk55/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Batuk55/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Batuk55/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -151,6 +152,7 @@
 | [0205-isomorphic-strings](https://github.com/Batuk55/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Batuk55/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Batuk55/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Batuk55/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Batuk55/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Batuk55/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Batuk55/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -183,6 +185,7 @@
 | [0169-majority-element](https://github.com/Batuk55/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Batuk55/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Batuk55/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Batuk55/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Batuk55/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Batuk55/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Batuk55/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -209,6 +212,7 @@
 | [0048-rotate-image](https://github.com/Batuk55/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Batuk55/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Batuk55/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Batuk55/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Batuk55/Leetcode/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Batuk55/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Batuk55/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -273,6 +277,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Batuk55/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Batuk55/Leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Batuk55/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Batuk55/Leetcode/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Batuk55/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Batuk55/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Batuk55/Leetcode/tree/master/0704-binary-search) |
@@ -419,6 +424,7 @@
 | [0090-subsets-ii](https://github.com/Batuk55/Leetcode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Batuk55/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Batuk55/Leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Batuk55/Leetcode/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Batuk55/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Batuk55/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Depth-First Search
