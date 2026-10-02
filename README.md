@@ -62,6 +62,7 @@
 | [0735-asteroid-collision](https://github.com/Batuk55/Leetcode/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Batuk55/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Batuk55/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/Batuk55/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Batuk55/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Batuk55/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Batuk55/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -161,6 +162,7 @@
 | [0567-permutation-in-string](https://github.com/Batuk55/Leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Batuk55/Leetcode/tree/master/0621-task-scheduler) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Batuk55/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0904-fruit-into-baskets](https://github.com/Batuk55/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Batuk55/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Batuk55/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Batuk55/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -373,6 +375,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Batuk55/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Batuk55/Leetcode/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/Batuk55/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Batuk55/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Batuk55/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Batuk55/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
