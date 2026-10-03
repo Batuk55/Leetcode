@@ -569,4 +569,8 @@
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Batuk55/Leetcode/tree/master/0802-find-eventual-safe-states) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Batuk55/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
