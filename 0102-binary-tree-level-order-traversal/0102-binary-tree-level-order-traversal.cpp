@@ -9,24 +9,35 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-void traversal(TreeNode* &root, int level, vector<vector<int>> &ans){ //, vector<vector<int>> &ans, queue &q
-    
-    if(root == NULL) return;
-    if(ans.size() == level){
-        ans.push_back({});
-    }
-
-    ans[level].push_back(root->val);
-    traversal(root->left, level+1, ans);
-    traversal(root->right, level+1, ans);
-}
-
 class Solution {
 public:
+    void level(TreeNode* root, int lvl, vector<vector<int>> & ans){
+        if(!root) return;
+
+        if(lvl == ans.size()){
+            ans.push_back({});
+        }
+       
+        // vector<int> temp;
+        ans[lvl].push_back(root->val);
+        
+        // if(root->left){
+            level(root->left, lvl+1, ans);
+        // }
+        // if(root->right){
+            level(root->right, lvl+1, ans);
+        // }
+    }
     vector<vector<int>> levelOrder(TreeNode* root) {
         vector<vector<int>> ans;
+        if(!root) return ans;
 
-        traversal(root, 0, ans);
-        return ans;        
+        stack<TreeNode*> st;
+        // st.push(root);
+        // ans.push_back({root->val})
+
+        level(root, 0, ans);
+
+        return ans;
     }
 };
