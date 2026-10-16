@@ -9,14 +9,18 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-int depthh(TreeNode* root, int curr_depth){
-    if(root == NULL) return curr_depth;
-
-    return max(depthh(root->left, curr_depth+1), depthh(root->right, curr_depth+1));
-}
 class Solution {
 public:
+    int depth(TreeNode* root){
+        if(!root) return 0;
+
+        return 1+max(depth(root->left), depth(root->right));
+    }
     int maxDepth(TreeNode* root) {
-        return depthh(root, 0);
+        if(!root) return 0;
+
+        int depthMax = depth(root);
+        return depthMax;
+
     }
 };
