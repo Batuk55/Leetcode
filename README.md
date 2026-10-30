@@ -69,6 +69,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Batuk55/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Batuk55/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Batuk55/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Batuk55/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Batuk55/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/Batuk55/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Batuk55/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -165,6 +166,7 @@
 | [0904-fruit-into-baskets](https://github.com/Batuk55/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Batuk55/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Batuk55/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Batuk55/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1331-rank-transform-of-an-array](https://github.com/Batuk55/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Batuk55/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Batuk55/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -335,6 +337,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Batuk55/Leetcode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Batuk55/Leetcode/tree/master/0735-asteroid-collision) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Batuk55/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Batuk55/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Batuk55/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
@@ -358,6 +361,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Batuk55/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/Batuk55/Leetcode/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Batuk55/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Batuk55/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Batuk55/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/Batuk55/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Batuk55/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
